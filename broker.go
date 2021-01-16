@@ -2,7 +2,7 @@ package sarama
 
 import (
 	//todo：国密：tls
-	tls "github.com/littlegirlpppp/ccs-gm/gmtls"
+	tls "github.com/littlegirlpppp/ccs-gm/tls"
 	//"crypto/tls"
 	"encoding/binary"
 	"fmt"

@@ -4,7 +4,7 @@ import (
 	"compress/gzip"
 	// "crypto/tls"
 	//todo：国密：tls
-	tls "github.com/littlegirlpppp/ccs-gm/gmtls"
+	tls "github.com/littlegirlpppp/ccs-gm/tls"
 	"fmt"
 	"io/ioutil"
 	"net"
